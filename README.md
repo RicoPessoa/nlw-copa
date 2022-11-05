@@ -20,11 +20,11 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
-- JavaScript e JSON
 - [Node e NPM](https://nodejs.org/)
 - [Expo](https://expo.dev/)
 - [Prisma](https://www.prisma.io/)
+- [React](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
 
 ## 💻 Projeto
 
